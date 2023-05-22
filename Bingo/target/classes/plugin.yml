@@ -1,0 +1,9 @@
+name: Bingo
+version: '1.0-SNAPSHOT'
+main: fr.bingo.Bingo
+api-version: 1.19
+authors: [Xelasflame]
+description: Bingo de Xelasflame
+commands:
+  start:
+    description: start la partie
